@@ -1,4 +1,4 @@
-jar file on the classpath or use maven, gradle
+jar file on the classpath or use maven, gradle!
 
 SqlSesstionFactory
 XML file can build SqlSesstionFactoryBuilder
